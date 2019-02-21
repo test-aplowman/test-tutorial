@@ -1,5 +1,6 @@
 ---
 published: false
+author: ted
 ---
 # Hello Maria!
 
