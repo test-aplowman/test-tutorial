@@ -1,4 +1,5 @@
 find_executable: checking for heroku... -------------------- yes
 
+/usr/lib/ruby/2.5.0/mkmf.rb:1553: warning: Insecure world writable dir /home/adam/software/damask/DAMASK-release/bin in PATH, mode 040777
 --------------------
 
