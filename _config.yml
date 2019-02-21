@@ -3,7 +3,7 @@ sass:
 
 jekyll_auth:
   whitelist:
-    - "^$"
+    - "about\.html"
 
 jekyll_auth:
   ssl: true
