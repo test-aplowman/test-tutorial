@@ -3,7 +3,7 @@ sass:
 
 jekyll_auth:
   whitelist:
-    - about.html
+    - about
 
 jekyll_auth:
   ssl: true
