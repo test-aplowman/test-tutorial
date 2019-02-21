@@ -5,6 +5,9 @@ sass:
 #   whitelist:
 #     - /
 
+jekyll_auth:
+  ssl: true
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
