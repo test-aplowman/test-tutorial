@@ -3,7 +3,7 @@ sass:
 
 jekyll_auth:
   whitelist:
-    - (?s).*
+    - "[\s\S]*"
 
 jekyll_auth:
   ssl: true
