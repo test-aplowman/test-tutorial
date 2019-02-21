@@ -3,7 +3,7 @@ sass:
 
 jekyll_auth:
   whitelist:
-    - "^((?!about).)*$"
+    - "/"
 
 jekyll_auth:
   ssl: true
