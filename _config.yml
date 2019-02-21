@@ -1,6 +1,10 @@
 sass:
     sass_dir: _sass
 
+jekyll_auth:
+  whitelist:
+    - /
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
